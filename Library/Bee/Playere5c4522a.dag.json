@@ -326,7 +326,7 @@
       "DisplayName": "Writing boot.config_tyr4.info",
       "ActionType": "WriteFile",
       "PayloadOffset": 83,
-      "PayloadLength": 16927,
+      "PayloadLength": 16747,
       "PayloadDebugContentSnippet": "{\"System.Object\":null,\"Bee.Tun",
       "Inputs": [],
       "Outputs": [
@@ -422,26 +422,26 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.42f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.WindModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.42f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.XRModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.42f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.2D.IK.Runtime.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.Burst.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.2D.Animation.Runtime.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.2D.Tilemap.Extras.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.2D.Common.Runtime.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.Collections.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.2D.PixelPerfect.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.Mathematics.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/PackageCache/com.unity.collections@1.2.4/Unity.Collections.LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/PackageCache/com.unity.burst@1.8.17/Unity.Burst.Unsafe.dll",
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll",
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.2D.IK.Runtime.dll",
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.Burst.dll",
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll",
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.2D.Animation.Runtime.dll",
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.2D.Tilemap.Extras.dll",
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll",
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll",
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.2D.Common.Runtime.dll",
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll",
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll",
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.Collections.dll",
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll",
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.2D.PixelPerfect.dll",
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.Mathematics.dll",
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll",
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll",
+        "C:/CSharp/Unity/StickMan/Library/PackageCache/com.unity.collections@1.2.4/Unity.Collections.LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll",
+        "C:/CSharp/Unity/StickMan/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
+        "C:/CSharp/Unity/StickMan/Library/PackageCache/com.unity.burst@1.8.17/Unity.Burst.Unsafe.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.42f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Facades/System.Runtime.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.42f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Facades/netstandard.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.42f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Mono.Security.dll",
@@ -1348,7 +1348,7 @@
       "DisplayName": "Copying Assembly-CSharp.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll"
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll"
       ],
       "Outputs": [
         "C:/CSharp/Unity/Builds/StickMan_Data/Managed/Assembly-CSharp.dll"
@@ -1360,7 +1360,7 @@
       "DisplayName": "Copying Unity.2D.IK.Runtime.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.2D.IK.Runtime.dll"
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.2D.IK.Runtime.dll"
       ],
       "Outputs": [
         "C:/CSharp/Unity/Builds/StickMan_Data/Managed/Unity.2D.IK.Runtime.dll"
@@ -1372,7 +1372,7 @@
       "DisplayName": "Copying Unity.Burst.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.Burst.dll"
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.Burst.dll"
       ],
       "Outputs": [
         "C:/CSharp/Unity/Builds/StickMan_Data/Managed/Unity.Burst.dll"
@@ -1384,7 +1384,7 @@
       "DisplayName": "Copying Unity.VisualScripting.Core.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll"
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll"
       ],
       "Outputs": [
         "C:/CSharp/Unity/Builds/StickMan_Data/Managed/Unity.VisualScripting.Core.dll"
@@ -1396,7 +1396,7 @@
       "DisplayName": "Copying Unity.2D.Animation.Runtime.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.2D.Animation.Runtime.dll"
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.2D.Animation.Runtime.dll"
       ],
       "Outputs": [
         "C:/CSharp/Unity/Builds/StickMan_Data/Managed/Unity.2D.Animation.Runtime.dll"
@@ -1408,7 +1408,7 @@
       "DisplayName": "Copying Unity.2D.Tilemap.Extras.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.2D.Tilemap.Extras.dll"
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.2D.Tilemap.Extras.dll"
       ],
       "Outputs": [
         "C:/CSharp/Unity/Builds/StickMan_Data/Managed/Unity.2D.Tilemap.Extras.dll"
@@ -1420,7 +1420,7 @@
       "DisplayName": "Copying Unity.VisualScripting.Flow.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll"
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll"
       ],
       "Outputs": [
         "C:/CSharp/Unity/Builds/StickMan_Data/Managed/Unity.VisualScripting.Flow.dll"
@@ -1432,7 +1432,7 @@
       "DisplayName": "Copying Unity.InternalAPIEngineBridge.001.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll"
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll"
       ],
       "Outputs": [
         "C:/CSharp/Unity/Builds/StickMan_Data/Managed/Unity.InternalAPIEngineBridge.001.dll"
@@ -1444,7 +1444,7 @@
       "DisplayName": "Copying Unity.2D.Common.Runtime.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.2D.Common.Runtime.dll"
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.2D.Common.Runtime.dll"
       ],
       "Outputs": [
         "C:/CSharp/Unity/Builds/StickMan_Data/Managed/Unity.2D.Common.Runtime.dll"
@@ -1456,7 +1456,7 @@
       "DisplayName": "Copying UnityEngine.UI.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll"
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll"
       ],
       "Outputs": [
         "C:/CSharp/Unity/Builds/StickMan_Data/Managed/UnityEngine.UI.dll"
@@ -1468,7 +1468,7 @@
       "DisplayName": "Copying Unity.Timeline.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll"
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll"
       ],
       "Outputs": [
         "C:/CSharp/Unity/Builds/StickMan_Data/Managed/Unity.Timeline.dll"
@@ -1480,7 +1480,7 @@
       "DisplayName": "Copying Unity.Collections.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.Collections.dll"
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.Collections.dll"
       ],
       "Outputs": [
         "C:/CSharp/Unity/Builds/StickMan_Data/Managed/Unity.Collections.dll"
@@ -1492,7 +1492,7 @@
       "DisplayName": "Copying Unity.2D.SpriteShape.Runtime.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll"
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll"
       ],
       "Outputs": [
         "C:/CSharp/Unity/Builds/StickMan_Data/Managed/Unity.2D.SpriteShape.Runtime.dll"
@@ -1504,7 +1504,7 @@
       "DisplayName": "Copying Unity.2D.PixelPerfect.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.2D.PixelPerfect.dll"
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.2D.PixelPerfect.dll"
       ],
       "Outputs": [
         "C:/CSharp/Unity/Builds/StickMan_Data/Managed/Unity.2D.PixelPerfect.dll"
@@ -1516,7 +1516,7 @@
       "DisplayName": "Copying Unity.Mathematics.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.Mathematics.dll"
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.Mathematics.dll"
       ],
       "Outputs": [
         "C:/CSharp/Unity/Builds/StickMan_Data/Managed/Unity.Mathematics.dll"
@@ -1528,7 +1528,7 @@
       "DisplayName": "Copying Unity.TextMeshPro.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll"
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll"
       ],
       "Outputs": [
         "C:/CSharp/Unity/Builds/StickMan_Data/Managed/Unity.TextMeshPro.dll"
@@ -1540,7 +1540,7 @@
       "DisplayName": "Copying Unity.VisualScripting.State.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll"
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll"
       ],
       "Outputs": [
         "C:/CSharp/Unity/Builds/StickMan_Data/Managed/Unity.VisualScripting.State.dll"
@@ -1552,7 +1552,7 @@
       "DisplayName": "Copying Unity.Collections.LowLevel.ILSupport.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/CSharp/Unity/StickMan/StickMan/Library/PackageCache/com.unity.collections@1.2.4/Unity.Collections.LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll"
+        "C:/CSharp/Unity/StickMan/Library/PackageCache/com.unity.collections@1.2.4/Unity.Collections.LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll"
       ],
       "Outputs": [
         "C:/CSharp/Unity/Builds/StickMan_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll"
@@ -1564,7 +1564,7 @@
       "DisplayName": "Copying Unity.VisualScripting.Antlr3.Runtime.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/CSharp/Unity/StickMan/StickMan/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+        "C:/CSharp/Unity/StickMan/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
       ],
       "Outputs": [
         "C:/CSharp/Unity/Builds/StickMan_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll"
@@ -1576,7 +1576,7 @@
       "DisplayName": "Copying Unity.Burst.Unsafe.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/CSharp/Unity/StickMan/StickMan/Library/PackageCache/com.unity.burst@1.8.17/Unity.Burst.Unsafe.dll"
+        "C:/CSharp/Unity/StickMan/Library/PackageCache/com.unity.burst@1.8.17/Unity.Burst.Unsafe.dll"
       ],
       "Outputs": [
         "C:/CSharp/Unity/Builds/StickMan_Data/Managed/Unity.Burst.Unsafe.dll"
@@ -1851,8 +1851,8 @@
       "Annotation": "GenerateNativePluginsForAssemblies Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker",
       "DisplayName": "Running Burst Compiler",
       "ActionType": "RunRPCCommand",
-      "PayloadOffset": 17133,
-      "PayloadLength": 15886,
+      "PayloadOffset": 16953,
+      "PayloadLength": 15706,
       "PayloadDebugContentSnippet": "{\"PlayerBuildProgramLibrary.Da",
       "Action": "GenerateNativePluginsForAssemblies",
       "Inputs": [
@@ -1924,26 +1924,26 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.42f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.WindModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.42f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.XRModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.42f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.2D.IK.Runtime.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.Burst.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.2D.Animation.Runtime.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.2D.Tilemap.Extras.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.2D.Common.Runtime.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.Collections.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.2D.PixelPerfect.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.Mathematics.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/PackageCache/com.unity.collections@1.2.4/Unity.Collections.LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/PackageCache/com.unity.burst@1.8.17/Unity.Burst.Unsafe.dll",
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll",
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.2D.IK.Runtime.dll",
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.Burst.dll",
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll",
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.2D.Animation.Runtime.dll",
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.2D.Tilemap.Extras.dll",
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll",
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll",
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.2D.Common.Runtime.dll",
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll",
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll",
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.Collections.dll",
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll",
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.2D.PixelPerfect.dll",
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.Mathematics.dll",
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll",
+        "C:/CSharp/Unity/StickMan/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll",
+        "C:/CSharp/Unity/StickMan/Library/PackageCache/com.unity.collections@1.2.4/Unity.Collections.LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll",
+        "C:/CSharp/Unity/StickMan/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
+        "C:/CSharp/Unity/StickMan/Library/PackageCache/com.unity.burst@1.8.17/Unity.Burst.Unsafe.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.42f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Facades/System.Runtime.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.42f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Facades/netstandard.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.42f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Mono.Security.dll",
@@ -1968,7 +1968,7 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.42f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/mscorlib.dll",
         "ProjectSettings/BurstAotSettings_StandaloneWindows.json",
         "Library/BurstCache/AotSettings_StandaloneWindows.hash",
-        "C:/CSharp/Unity/StickMan/StickMan/Library/PackageCache/com.unity.burst@1.8.17/.Runtime/bcl.exe"
+        "C:/CSharp/Unity/StickMan/Library/PackageCache/com.unity.burst@1.8.17/.Runtime/bcl.exe"
       ],
       "Outputs": [],
       "TargetDirectories": [
@@ -2021,7 +2021,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info",
       "DisplayName": "Writing app.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 33108,
+      "PayloadOffset": 32748,
       "PayloadLength": 23,
       "PayloadDebugContentSnippet": "DefaultCompany\nStickMan",
       "Inputs": [],
@@ -2704,6 +2704,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/Playere5c4522a.dag.json",
-  "PayloadsFile": "C:/CSharp/Unity/StickMan/StickMan/Library/Bee/Playere5c4522a.dag.payloads",
+  "PayloadsFile": "C:/CSharp/Unity/StickMan/Library/Bee/Playere5c4522a.dag.payloads",
   "RelativePathToRoot": "../.."
 }
