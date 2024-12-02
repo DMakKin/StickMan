@@ -8,10 +8,14 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private LayerMask groundLayer;
     [SerializeField] private Transform groundCheck;
     [SerializeField] private float groundCheckRadius;
+    [SerializeField] private float distance;
+    [SerializeField] private Vector3 offset;
     private Rigidbody2D rb;
     private bool isGrounded;
     private float moveInput;
     private Animator animator;
+    private RaycastHit2D hit;
+
 
     void Start()
     {
@@ -21,23 +25,36 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
-
         Move();
         Jump();
-
-        
     }     
 
     private void Move()
-    {   
-        moveInput = Input.GetAxis("Horizontal");
-        rb.velocity = new Vector2(moveInput * moveSpeed, rb.velocity.y);
-        animator.SetFloat("Speed", Mathf.Abs(moveInput));
-
+    {
         if (moveInput > 0)
+        {
             transform.localScale = new Vector2(1, 1);
+            CheckObstacle(Vector2.right);
+        }
         else if (moveInput < 0)
+        {
             transform.localScale = new Vector2(-1, 1);
+            CheckObstacle(Vector2.left);
+        }
+
+
+        if (hit != true)
+        {
+            moveInput = Input.GetAxis("Horizontal");
+            rb.velocity = new Vector2(moveInput * moveSpeed, rb.velocity.y);
+            animator.SetFloat("Speed", Mathf.Abs(moveInput));
+        }   
+    }
+
+    private void CheckObstacle(Vector2 direction)
+    {
+        hit = Physics2D.Raycast(transform.position + offset, direction, distance, groundLayer);
+        Debug.DrawRay(transform.position + offset, direction * distance, Color.red);        
     }
 
     private void Jump()

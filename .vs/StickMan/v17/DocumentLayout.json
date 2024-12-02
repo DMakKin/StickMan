@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "C:\\CSharp\\Unity\\StickMan\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{03C21D56-48E9-2064-01DF-9DA1ACE7B175}|Assembly-CSharp.csproj|C:\\CSharp\\Unity\\StickMan\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{03C21D56-48E9-2064-01DF-9DA1ACE7B175}|Assembly-CSharp.csproj|c:\\csharp\\unity\\stickman\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03C21D56-48E9-2064-01DF-9DA1ACE7B175}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03C21D56-48E9-2064-01DF-9DA1ACE7B175}|Assembly-CSharp.csproj|c:\\csharp\\unity\\stickman\\assets\\scripts\\finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{03C21D56-48E9-2064-01DF-9DA1ACE7B175}|Assembly-CSharp.csproj|C:\\CSharp\\Unity\\StickMan\\assets\\scripts\\linecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C21D56-48E9-2064-01DF-9DA1ACE7B175}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\linecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C21D56-48E9-2064-01DF-9DA1ACE7B175}|Assembly-CSharp.csproj|C:\\CSharp\\Unity\\StickMan\\assets\\scripts\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C21D56-48E9-2064-01DF-9DA1ACE7B175}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C21D56-48E9-2064-01DF-9DA1ACE7B175}|Assembly-CSharp.csproj|C:\\CSharp\\Unity\\StickMan\\assets\\scripts\\finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03C21D56-48E9-2064-01DF-9DA1ACE7B175}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -17,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{03C21D56-48E9-2064-01DF-9DA1ACE7B175}|Assembly-CSharp.csproj|C:\\CSharp\\Unity\\StickMan\\assets\\scripts\\restart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03C21D56-48E9-2064-01DF-9DA1ACE7B175}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\restart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03C21D56-48E9-2064-01DF-9DA1ACE7B175}|Assembly-CSharp.csproj|C:\\CSharp\\Unity\\StickMan\\assets\\scripts\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03C21D56-48E9-2064-01DF-9DA1ACE7B175}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03C21D56-48E9-2064-01DF-9DA1ACE7B175}|Assembly-CSharp.csproj|C:\\CSharp\\Unity\\StickMan\\assets\\scripts\\linecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03C21D56-48E9-2064-01DF-9DA1ACE7B175}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\linecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "SceneLoader.cs",
               "DocumentMoniker": "C:\\CSharp\\Unity\\StickMan\\Assets\\Scripts\\SceneLoader.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SceneLoader.cs",
@@ -50,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Finish.cs",
               "DocumentMoniker": "C:\\CSharp\\Unity\\StickMan\\Assets\\Scripts\\Finish.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Finish.cs",
@@ -58,12 +58,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Finish.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T15:21:45.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T15:21:45.951Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Restart.cs",
               "DocumentMoniker": "C:\\CSharp\\Unity\\StickMan\\Assets\\Scripts\\Restart.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Restart.cs",
@@ -81,34 +80,36 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
               "ToolTip": "C:\\CSharp\\Unity\\StickMan\\Assets\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T12:32:14.468Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Line.cs",
               "DocumentMoniker": "C:\\CSharp\\Unity\\StickMan\\Assets\\Scripts\\Line.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Line.cs",
               "ToolTip": "C:\\CSharp\\Unity\\StickMan\\Assets\\Scripts\\Line.cs",
               "RelativeToolTip": "Assets\\Scripts\\Line.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwCgAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T11:12:20.656Z"
+              "WhenOpened": "2024-11-28T11:12:20.656Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "LineCreator.cs",
               "DocumentMoniker": "C:\\CSharp\\Unity\\StickMan\\Assets\\Scripts\\LineCreator.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LineCreator.cs",
               "ToolTip": "C:\\CSharp\\Unity\\StickMan\\Assets\\Scripts\\LineCreator.cs",
               "RelativeToolTip": "Assets\\Scripts\\LineCreator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T11:02:01.778Z"
+              "WhenOpened": "2024-11-28T11:02:01.778Z",
+              "EditorCaption": ""
             }
           ]
         }
